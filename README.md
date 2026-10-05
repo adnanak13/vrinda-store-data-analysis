@@ -9,14 +9,15 @@ Vrinda Store Data Analysis is a data analytics project created using Microsoft E
 The project involves transforming raw sales data into meaningful information through data cleaning, data processing, analysis, Pivot Tables, Pivot Charts, and dashboard visualizations.
 The main purpose of this project is to understand sales performance, customer purchasing patterns, order trends, and other important business metrics that can help management make data-driven decisions.
 
-Which month generated the highest sales and orders? 
-How do monthly sales trends compare with order volume? 
-Which gender contributes the most to overall sales? 
-What percentage of orders are successfully delivered? 
-What percentage of orders are returned, cancelled, or refunded? 
-Which are the top 5 states by sales? 
-Which state generates the highest sales? 
-Which age group contributes the most to sales? 
-Which sales channel contributes the highest number of orders? 
-Which customer segment and sales channel should Vrinda Store prioritize for future growth?
+## Questions (KPIs)
+- Which month generated the highest sales and orders? 
+- How do monthly sales trends compare with order volume? 
+- Which gender contributes the most to overall sales? 
+- What percentage of orders are successfully delivered? 
+- What percentage of orders are returned, cancelled, or refunded? 
+- Which are the top 5 states by sales? 
+- Which state generates the highest sales? 
+- Which age group contributes the most to sales? 
+- Which sales channel contributes the highest number of orders? 
+- Which customer segment and sales channel should Vrinda Store prioritize for future growth?
 
