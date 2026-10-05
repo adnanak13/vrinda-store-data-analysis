@@ -9,7 +9,7 @@ Vrinda Store Data Analysis is a data analytics project created using Microsoft E
 The project involves transforming raw sales data into meaningful information through data cleaning, data processing, analysis, Pivot Tables, Pivot Charts, and dashboard visualizations.
 The main purpose of this project is to understand sales performance, customer purchasing patterns, order trends, and other important business metrics that can help management make data-driven decisions.
 
-##Project Objectives
+**##Project Objectives**
 Analyze the overall sales performance of Vrinda Store.
 Understand customer purchasing behavior.
 Identify important sales and order trends.
