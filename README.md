@@ -31,7 +31,7 @@ The main purpose of this project is to understand sales performance, customer pu
 - Insights & Recommendations – Identified key trends and business insights for better decision-making
 
 ## Dashboard
-<img width="736" height="297" alt="Screenshot 2026-10-05 220203" src="https://github.com/user-attachments/assets/ebad70a1-9412-4e15-b6be-02962cfc6103" />
+<img width="734" height="299" alt="Screenshot 2026-10-05 220203" src="https://github.com/user-attachments/assets/35763a2e-ff5d-4989-a336-50df056f930a" />
 
 ## Project Insight
 - Total Sales Performance: Vrinda Store generated approximately ₹21.18 million in sales from 28,471 unique orders during 2022.
